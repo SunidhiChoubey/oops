@@ -189,8 +189,7 @@ int main()
  ~~~   
 
 Outputs:
-
-
+![](https://github.com/SunidhiChoubey/oops/blob/main/Screenshot%202024-09-02%20151348.png)
 
 Conclusion:
 We learnt about OOP in C++ and 
