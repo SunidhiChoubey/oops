@@ -74,7 +74,7 @@ using namespace std;
 class cuboid
 {
     public:
-    double h = 5.0,b = 3.0,l = 8.0;
+    double h = 2.0,b = 3.0,l = 5.0;
     double volume()
     {
         double vol = h * b * l;
@@ -97,7 +97,7 @@ using namespace std;
 class cuboid
 {
     private:
-    double h = 20.0,b = 13.0,l = 17.0;
+    double h = 2.0,b = 3.0,l = 5.0;
     public:
     double volume()
     {
@@ -122,7 +122,7 @@ using namespace std;
 class cuboid
 {
     private:
-    double h = 7.0,b = 8.0,l = 9.0;
+    double h = 2.0,b = 3.0,l = 5.0;
     public:
     double volume()
     {
